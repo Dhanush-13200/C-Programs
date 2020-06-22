@@ -1,3 +1,11 @@
+/* This Program takes a number and adds each digit and gives it as Output
+
+Example:    
+Input - 12345
+Output - 15
+Explanation - 1+2+3+4+5 = 15
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
