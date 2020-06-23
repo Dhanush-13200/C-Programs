@@ -1,5 +1,4 @@
-/* Addition Of Two Numbers
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
