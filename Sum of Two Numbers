@@ -1,0 +1,15 @@
+// Addition Of Two Numbers
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int a = 10;
+    int b = 20;
+    int c=a+b;
+    printf("The Value of c is %i\n", c);
+    printf("The Value of a is %i\n",a);
+    printf("The Value of b is %i",b);
+    return 0;
+}
